@@ -9,6 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0.snapshot</version>
     <description>个人知识梳理，进阶~！</description>
+    <modules>
+        <module>haha-jvm</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -36,7 +39,7 @@
             <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
-    
+
     <dependencyManagement>
         <dependencies>
             <dependency>
