@@ -36,8 +36,7 @@
             <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
-
-    <!--Spring Cloud 版本序列配置-->
+    
     <dependencyManagement>
         <dependencies>
             <dependency>
