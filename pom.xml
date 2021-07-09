@@ -11,6 +11,9 @@
     <description>个人知识梳理，进阶~！</description>
     <modules>
         <module>haha-jvm</module>
+        <module>haha-zk</module>
+        <module>haha-boot-zk</module>
+        <module>haha-mq</module>
     </modules>
 
     <parent>
