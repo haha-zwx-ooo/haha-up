@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: haha-rabbitmq-consumer-8082
+
+server:
+  port: 8082
