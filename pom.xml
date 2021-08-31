@@ -14,6 +14,10 @@
         <module>haha-zk</module>
         <module>haha-boot-zk</module>
         <module>haha-mq</module>
+        <module>haha-io</module>
+        <module>haha-netty</module>
+        <module>haha-juc</module>
+        <module>haha-algorithm</module>
     </modules>
 
     <parent>
