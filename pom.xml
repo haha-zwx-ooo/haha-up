@@ -17,6 +17,7 @@
         <module>haha-io</module>
         <module>haha-netty</module>
         <module>haha-juc</module>
+        <module>haha-algorithm</module>
     </modules>
 
     <parent>
